@@ -1,10 +1,10 @@
-title: These are the triggers that Love Trigger loves
-description: Brought to you with love (platonically) by Doug
+title:These are the triggers that Love Trigger loves
+description:Brought to you with love (platonically) by Doug
 
-//notes: Love Trigger
+//notes:Love Trigger
 dimwishlist:item=1476654960&perks=1926090091,3142289711,1195158366,47981717,384158423
 dimwishlist:item=6857689&perks=1926090095,3230963543,3161816588,47981717,2697220197
 dimwishlist:item=1622998472&perks=1482024992,3142289711,2450788523,3673922083,2697220197
 
-// Judgement
+//Judgement
 dimwishlist:item=1476654960&perks=1926090092,3142289711,1195158366,47981717
